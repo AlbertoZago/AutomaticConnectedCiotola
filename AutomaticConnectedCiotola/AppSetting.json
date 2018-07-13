@@ -1,0 +1,11 @@
+﻿{
+  "eventHubPath": "albzagiothub2",
+  "eventHubConsumerGroup": "iothubeventprocessor",
+  "eventHubConnectionString": "Endpoint=sb://iothub-ns-albzagioth-467180-8764f7122c.servicebus.windows.net/;SharedAccessKeyName=iothubowner;SharedAccessKey=tUsKm77xu6EM6nvi/Iv6crht/a+QUU/5ORSuNdqLPto=",
+  "storageConnectionString": "DefaultEndpointsProtocol=https;AccountName=containeraccount;AccountKey=cu+ZYEpjk+r+gKM+Tr/srgXIuA7Q0t0m4VBm7OD3vgeRD1RTb0StYMZ8zto1nCY9vSFPjwKdu06HhqSvFNsm4A==;EndpointSuffix=core.windows.net",
+  "leaseContainerName": "iothubleases",
+  "DeviceId": "ManualConnectedCiotola",
+  "DeviceKey": "qkSsTqeQCklq7/ADFFLkPsCo5h0n1RJAlG7R8Noe6eI=",
+  "TransportType": "Mqtt_WebSocket_Only",
+  "hostName": "AlbZagIotHub2.azure-devices.net"
+}

@@ -1,0 +1,44 @@
+﻿@{
+    ViewData["Title"] = "Ciotola";
+}
+<h2>@ViewData["Title"]</h2>
+<h3>@ViewData["Message"]</h3>
+
+<p>Use this area to provide additional information.</p>
+
+
+Scatta foto
+<button type="button"  id="InviaRichiesta">Click Me!</button>
+
+<div id="result">
+
+</div>
+
+
+@section Scripts{
+
+
+    <script type="text/javascript">
+
+        $("#InviaRichiesta").on("click", function () {
+
+            var Url = '@Url.Action("Richiedi")';
+            
+            $.ajax({
+                type: "POST",
+                url: Url,
+                success: function (msg) {
+                    $("#result").html("invio riuscito");
+                },
+                error: function () {
+
+                    alert("Chiamata fallita, si prega di riprovare... ");
+                    $("#result").html("invio fallito");
+
+                }
+            });
+
+        });
+
+    </script>
+    }

@@ -1,0 +1,11 @@
+c:\users\pc\source\repos\AutomaticConnectedCiotola\PadroncinoInTheCloud\bin\Debug\netcoreapp2.0\PadroncinoInTheCloud.deps.json
+c:\users\pc\source\repos\AutomaticConnectedCiotola\PadroncinoInTheCloud\bin\Debug\netcoreapp2.0\PadroncinoInTheCloud.runtimeconfig.json
+c:\users\pc\source\repos\AutomaticConnectedCiotola\PadroncinoInTheCloud\bin\Debug\netcoreapp2.0\PadroncinoInTheCloud.runtimeconfig.dev.json
+c:\users\pc\source\repos\AutomaticConnectedCiotola\PadroncinoInTheCloud\bin\Debug\netcoreapp2.0\PadroncinoInTheCloud.dll
+c:\users\pc\source\repos\AutomaticConnectedCiotola\PadroncinoInTheCloud\bin\Debug\netcoreapp2.0\PadroncinoInTheCloud.pdb
+c:\users\pc\source\repos\AutomaticConnectedCiotola\PadroncinoInTheCloud\obj\Debug\netcoreapp2.0\PadroncinoInTheCloud.csprojAssemblyReference.cache
+c:\users\pc\source\repos\AutomaticConnectedCiotola\PadroncinoInTheCloud\obj\Debug\netcoreapp2.0\PadroncinoInTheCloud.csproj.CoreCompileInputs.cache
+c:\users\pc\source\repos\AutomaticConnectedCiotola\PadroncinoInTheCloud\obj\Debug\netcoreapp2.0\PadroncinoInTheCloud.AssemblyInfoInputs.cache
+c:\users\pc\source\repos\AutomaticConnectedCiotola\PadroncinoInTheCloud\obj\Debug\netcoreapp2.0\PadroncinoInTheCloud.AssemblyInfo.cs
+c:\users\pc\source\repos\AutomaticConnectedCiotola\PadroncinoInTheCloud\obj\Debug\netcoreapp2.0\PadroncinoInTheCloud.dll
+c:\users\pc\source\repos\AutomaticConnectedCiotola\PadroncinoInTheCloud\obj\Debug\netcoreapp2.0\PadroncinoInTheCloud.pdb

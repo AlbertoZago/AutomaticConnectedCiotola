@@ -1,0 +1,11 @@
+c:\users\pc\source\repos\AutomaticConnectedCiotola\ManualConnectedCiotola\bin\Debug\netcoreapp2.0\ManualConnectedCiotola.deps.json
+c:\users\pc\source\repos\AutomaticConnectedCiotola\ManualConnectedCiotola\bin\Debug\netcoreapp2.0\ManualConnectedCiotola.runtimeconfig.json
+c:\users\pc\source\repos\AutomaticConnectedCiotola\ManualConnectedCiotola\bin\Debug\netcoreapp2.0\ManualConnectedCiotola.runtimeconfig.dev.json
+c:\users\pc\source\repos\AutomaticConnectedCiotola\ManualConnectedCiotola\bin\Debug\netcoreapp2.0\ManualConnectedCiotola.dll
+c:\users\pc\source\repos\AutomaticConnectedCiotola\ManualConnectedCiotola\bin\Debug\netcoreapp2.0\ManualConnectedCiotola.pdb
+c:\users\pc\source\repos\AutomaticConnectedCiotola\ManualConnectedCiotola\obj\Debug\netcoreapp2.0\ManualConnectedCiotola.csprojAssemblyReference.cache
+c:\users\pc\source\repos\AutomaticConnectedCiotola\ManualConnectedCiotola\obj\Debug\netcoreapp2.0\ManualConnectedCiotola.csproj.CoreCompileInputs.cache
+c:\users\pc\source\repos\AutomaticConnectedCiotola\ManualConnectedCiotola\obj\Debug\netcoreapp2.0\ManualConnectedCiotola.AssemblyInfoInputs.cache
+c:\users\pc\source\repos\AutomaticConnectedCiotola\ManualConnectedCiotola\obj\Debug\netcoreapp2.0\ManualConnectedCiotola.AssemblyInfo.cs
+c:\users\pc\source\repos\AutomaticConnectedCiotola\ManualConnectedCiotola\obj\Debug\netcoreapp2.0\ManualConnectedCiotola.dll
+c:\users\pc\source\repos\AutomaticConnectedCiotola\ManualConnectedCiotola\obj\Debug\netcoreapp2.0\ManualConnectedCiotola.pdb

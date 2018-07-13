@@ -1,0 +1,11 @@
+c:\users\pc\source\repos\AutomaticConnectedCiotola\SmartphoneApp\bin\Debug\netcoreapp2.0\SmartphoneApp.deps.json
+c:\users\pc\source\repos\AutomaticConnectedCiotola\SmartphoneApp\bin\Debug\netcoreapp2.0\SmartphoneApp.runtimeconfig.json
+c:\users\pc\source\repos\AutomaticConnectedCiotola\SmartphoneApp\bin\Debug\netcoreapp2.0\SmartphoneApp.runtimeconfig.dev.json
+c:\users\pc\source\repos\AutomaticConnectedCiotola\SmartphoneApp\bin\Debug\netcoreapp2.0\SmartphoneApp.dll
+c:\users\pc\source\repos\AutomaticConnectedCiotola\SmartphoneApp\bin\Debug\netcoreapp2.0\SmartphoneApp.pdb
+c:\users\pc\source\repos\AutomaticConnectedCiotola\SmartphoneApp\obj\Debug\netcoreapp2.0\SmartphoneApp.csprojAssemblyReference.cache
+c:\users\pc\source\repos\AutomaticConnectedCiotola\SmartphoneApp\obj\Debug\netcoreapp2.0\SmartphoneApp.csproj.CoreCompileInputs.cache
+c:\users\pc\source\repos\AutomaticConnectedCiotola\SmartphoneApp\obj\Debug\netcoreapp2.0\SmartphoneApp.AssemblyInfoInputs.cache
+c:\users\pc\source\repos\AutomaticConnectedCiotola\SmartphoneApp\obj\Debug\netcoreapp2.0\SmartphoneApp.AssemblyInfo.cs
+c:\users\pc\source\repos\AutomaticConnectedCiotola\SmartphoneApp\obj\Debug\netcoreapp2.0\SmartphoneApp.dll
+c:\users\pc\source\repos\AutomaticConnectedCiotola\SmartphoneApp\obj\Debug\netcoreapp2.0\SmartphoneApp.pdb
